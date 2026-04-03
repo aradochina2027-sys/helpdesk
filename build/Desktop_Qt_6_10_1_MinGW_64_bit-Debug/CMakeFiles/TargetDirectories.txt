@@ -1,0 +1,5 @@
+D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Helpdesk.dir
+D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Helpdesk_autogen_timestamp_deps.dir
+D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/Helpdesk_autogen.dir

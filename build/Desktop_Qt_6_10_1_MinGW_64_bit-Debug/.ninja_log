@@ -1,0 +1,35 @@
+# ninja log v6
+9	645	7969405765550780	build.ninja	9dd485190e8ff339
+6	163	7969405260279803	Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+6	163	7969405260279803	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+6	163	7969405260279803	Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+6	163	7969405260279803	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+150	2560	7969405007122720	CMakeFiles/Helpdesk.dir/Helpdesk_autogen/mocs_compilation.cpp.obj	94352bf58494335f
+156	2342	7969405007162815	CMakeFiles/Helpdesk.dir/main.cpp.obj	4c14d00a7539596f
+164	2713	7969405261857629	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	ac99c50bc5135d1d
+14	38	7969405898510525	CMakeFiles/clean.additional	c313c7df7a6a27c5
+38	44	7969405898748252	clean	c6b33aad8e4c4d0
+11	449	7969405903217156	Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+11	449	7969405903217156	Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+11	449	7969405903217156	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+11	449	7969405903217156	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+450	2340	7969405903730023	CMakeFiles/Helpdesk.dir/Helpdesk_autogen/mocs_compilation.cpp.obj	94352bf58494335f
+453	2350	7969405903770078	CMakeFiles/Helpdesk.dir/main.cpp.obj	4c14d00a7539596f
+455	2836	7969405903790108	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	ac99c50bc5135d1d
+458	2918	7969405903810138	CMakeFiles/Helpdesk.dir/ticketdialog.cpp.obj	6c889df855a021e7
+6	416	7969406870247976	Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+6	416	7969406870247976	Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+6	416	7969406870247976	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+6	416	7969406870247976	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+416	2358	7969406870771891	CMakeFiles/Helpdesk.dir/Helpdesk_autogen/mocs_compilation.cpp.obj	94352bf58494335f
+419	2367	7969406870811954	CMakeFiles/Helpdesk.dir/main.cpp.obj	4c14d00a7539596f
+425	2895	7969406870857135	CMakeFiles/Helpdesk.dir/ticketdialog.cpp.obj	6c889df855a021e7
+422	2948	7969406870832074	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	ac99c50bc5135d1d
+2948	3229	7969406896094668	Helpdesk.exe	e7f0b8844549593
+6	145	7969408313264635	Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+6	145	7969408313264635	Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+6	145	7969408313264635	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/timestamp	5677a4ea7efe76ed
+6	145	7969408313264635	D:/QT project Nastya/Helpdesk/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Helpdesk_autogen/mocs_compilation.cpp	5677a4ea7efe76ed
+149	2503	7969408314691393	CMakeFiles/Helpdesk.dir/ticketdialog.cpp.obj	6c889df855a021e7
+146	2572	7969408314661392	CMakeFiles/Helpdesk.dir/mainwindow.cpp.obj	ac99c50bc5135d1d
+2572	2811	7969408338927016	Helpdesk.exe	e7f0b8844549593

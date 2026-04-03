@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TicketDialog</class>
+ <widget class="QDialog" name="TicketDialog">
+  <property name="geometry"><rect><x>0</x><y>0</y><width>400</width><height>450</height></rect></property>
+  <layout class="QVBoxLayout" name="v">
+   <item>
+    <layout class="QFormLayout" name="f">
+     <item row="0" column="0"><widget class="QLabel" name="l1"><property name="text"><string>ID:</string></property></widget></item>
+     <item row="0" column="1"><widget class="QLabel" name="valId"><property name="text"><string>---</string></property></widget></item>
+     <item row="1" column="0"><widget class="QLabel" name="l2"><property name="text"><string>Тема:</string></property></widget></item>
+     <item row="1" column="1"><widget class="QLineEdit" name="editTitle"/></item>
+     <item row="2" column="0"><widget class="QLabel" name="l3"><property name="text"><string>Пріоритет:</string></property></widget></item>
+     <item row="2" column="1"><widget class="QComboBox" name="comboPriority"/></item>
+     <item row="3" column="0"><widget class="QLabel" name="l4"><property name="text"><string>Статус:</string></property></widget></item>
+     <item row="3" column="1"><widget class="QComboBox" name="comboStatus"/></item>
+     <item row="4" column="0"><widget class="QLabel" name="l5"><property name="text"><string>Створено:</string></property></widget></item>
+     <item row="4" column="1"><widget class="QLabel" name="valCreated"><property name="text"><string>---</string></property></widget></item>
+     <item row="5" column="0"><widget class="QLabel" name="l6"><property name="text"><string>Опис:</string></property></widget></item>
+     <item row="5" column="1"><widget class="QPlainTextEdit" name="editDesc"/></item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="h">
+     <item><spacer name="s"><property name="orientation"><enum>Qt::Horizontal</enum></property></spacer></item>
+     <item><widget class="QPushButton" name="btnEdit"><property name="text"><string>Змінити</string></property></widget></item>
+     <item><widget class="QPushButton" name="btnSave"><property name="text"><string>Зберегти</string></property></widget></item>
+     <item><widget class="QPushButton" name="btnCancel"><property name="text"><string>Відміна</string></property></widget></item>
+     <item><widget class="QPushButton" name="btnClose"><property name="text"><string>Закрити</string></property></widget></item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+</ui>
